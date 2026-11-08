@@ -1,0 +1,17 @@
+# Documentos de trabajo (no van al repositorio)
+CLAUDE.md
+informe.docx
+EP2_BDY0101_MongoDB_Atlas_FormaA.pdf
+~$*.docx
+
+# Credenciales
+.env
+.env.*
+!.env.example
+pass_mongo.txt
+
+# Dependencias, build y logs
+node_modules/
+dist/
+logs/
+*.log
